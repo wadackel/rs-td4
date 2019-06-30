@@ -1,5 +1,7 @@
 # rs-td4
 
+[![CircleCI](https://circleci.com/gh/tsuyoshiwada/rs-td4.svg?style=svg)](https://circleci.com/gh/tsuyoshiwada/rs-td4)
+
 > WebAssembly TD4 Emulator with Rust.
 
 TD4 is a 4bit extremely simple CPU.  
