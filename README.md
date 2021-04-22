@@ -11,7 +11,7 @@ This project implements TD4 in Rust, and uses WebAssembly to emulate the CPU on 
 
 ![Playground](./docs/images/playground.png)
 
-https://tsuyoshiwada.github.io/rs-td4/
+https://wadackel.github.io/rs-td4/
 
 - Auto Clock (1Hz)
 - Manual Clock
